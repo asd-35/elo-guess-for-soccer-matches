@@ -95,18 +95,7 @@ for index in range(0,18):
         eloProbablitiy(teamArr[index1], teamArr[index2])
         Combination(teamArr[index1])
         Combination(teamArr[index2])
-        print("EK BİLGİ")
-        print(
-            "------------------------------------------------------------------------------------------------------------------------------")
-        print(
-            "BİNOM OLASILIKTA SAYI NE KADAR YÜKSEKSE O KADAR KAZANMA ŞANSI ARTAR BERABERLİK İÇİN  YÜKSELEBİLECEĞİ EN YÜKSEK SAYI BİR TAKIMIN : 1")
-        print(
-            "------------------------------------------------------------------------------------------------------------------------------")
-        print(
-            "ELO ALGORİTMASINDA TAKIMLARIN KAZANMA ŞANSI 0.4 VE 0.6 ARASINDA GİDER GELİR 0.6 DAHA YAKINSA KAZANMASI O KADAR OLASI")
-        print(
-            "------------------------------------------------------------------------------------------------------------------------------")
-        print("İDDİA ORANLARINA VE FUTBOLA MATEMATİKSEL BİR YAKLAŞIM")
+       
 
         break
 
