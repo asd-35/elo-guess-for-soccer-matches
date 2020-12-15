@@ -1,1 +1,1 @@
-# web scraping for this project was coded in 2019 so change it prefore you use it
+# web scraping for this project was coded in 2019 so change it before you use it
